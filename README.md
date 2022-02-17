@@ -14,6 +14,6 @@
 - Java
 
 #### ☎️ - Kontakt
-Discord : Lolmy#7927 
+Discord : Lolmy#7927
 Twitter : lolmytictok 
 Email: lolmyttv@gmail.com
