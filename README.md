@@ -1,19 +1,20 @@
-#### 👀 - Über mich
+#### 👀 - About Me
 - Developer
 - Gamer
 - Musiker
 
-#### 🖥️- Projekte
+#### 🖥️- Projects 
 - AlphaVaro
-- Soon
+- Soon? 
 
-#### 🌐 - Sprachen
+#### 🌐 - Languages 
 - HTML & CSS
 
-#### 🤯 - Lerne
+#### 🤯 - Learning
 - Java
 
-#### ☎️ - Kontakt
+#### ☎️ - Contact
 Discord : Lolmy#7927
-Twitter : lolmytictok 
+Twitter : TheLol_my 
 Email: lolmyttv@gmail.com
+Youtube: https://www.youtube.com/channel/UCa_KvcB5KzgW5SNwlzP5WHQ
