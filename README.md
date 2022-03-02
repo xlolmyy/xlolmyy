@@ -5,13 +5,15 @@
 
 #### 🖥️- Projects 
 - AlphaVaro
-- Soon? 
+- GameApi 
 
 #### 🌐 - Languages 
 - HTML & CSS
+- Java (Basics)
 
 #### 🤯 - Learning
-- Java
+- Java (Develop)
+- discord.js
 
 #### ☎️ - Contact
 - Discord : Lolmy#7927
