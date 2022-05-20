@@ -12,7 +12,7 @@
 - Java (Basics)
 
 #### 🤯 - Learning
-- Java (Develop)
+- Java (Developing)
 - discord.js
 
 #### ☎️ - Contact
