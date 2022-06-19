@@ -1,7 +1,7 @@
 #### 👀 - About Me
 - Developer
 - Gamer
-- Musiker
+- Musician
 
 #### 🖥️- Projects 
 - AlphaVaro
