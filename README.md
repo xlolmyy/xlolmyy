@@ -10,6 +10,7 @@
 #### 🌐 - Languages 
 - HTML & CSS
 - Java (Basics)
+- Java (JDA)
 
 #### 🤯 - Learning
 - Java (Developing)
