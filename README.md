@@ -21,3 +21,10 @@
 - Twitter : TheLol_my 
 - Email: lolmyttv@gmail.com
 - Youtube: https://www.youtube.com/channel/UCa_KvcB5KzgW5SNwlzP5WHQ
+
+
+
+<p align="center">
+<img src="https://discord.c99.nl/widget/theme-2/758675332709482576.png">
+</p>
+<br>
