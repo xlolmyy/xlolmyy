@@ -3,11 +3,11 @@
 - Gamer
 - Musician
 
-#### 🖥️- Projects 
+#### 🖥️ - Projects 
 - AlphaVaro (PAUSED)
 - GameApi 
 
-#### 👨‍💻-Small Projects
+#### 👨‍💻 - Small Projects
 - xlolmyy.github.io
 
 #### 🌐 - Languages 
