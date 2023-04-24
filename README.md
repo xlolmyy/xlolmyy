@@ -7,6 +7,9 @@
 - AlphaVaro (PAUSED)
 - GameApi 
 
+#### 👨‍💻-Small Projects
+- xlolmyy.github.io
+
 #### 🌐 - Languages 
 - HTML & CSS
 - Java (Basics)
